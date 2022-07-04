@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### my name is Ahmed
-I'm a front-end developer
-
+### this is your friendly front-end developer ahmed 
 
 ## Contacts
 use dark theme to connect with me :'D
