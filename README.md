@@ -17,5 +17,5 @@ use light theme to connect with me :'D
 
 ### Spotify Playing 🎧
 
-[<img src="https://<https://spotify-now-playing-five-theta.vercel.app/>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<Ahmed Sameh>)
+[<img src="https://spotify-now-playing-five-theta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21dhxhynk23onpcftmls7nfgq)
 
