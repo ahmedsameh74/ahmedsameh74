@@ -15,7 +15,5 @@ use light theme to connect with me :'D
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsameh74&show_icons=true)  
 
-### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-five-theta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21dhxhynk23onpcftmls7nfgq)
 
