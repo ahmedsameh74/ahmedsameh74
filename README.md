@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### this is your friendly front-end developer ahmed 
+### this is your friendly neighborhood ahmed, and i'am a front-end developer 🙋‍♂️
 
 ## Contacts
-use dark theme to connect with me :'D
+use dark theme to connect with me 🤷‍♂️
 
 [<img src='https://user-images.githubusercontent.com/83659148/177087766-e11801cb-5431-42db-bfc8-f7f28b77f619.png' alt='github' height='40'>](https://github.com/ahmedsameh74)  [<img src='https://user-images.githubusercontent.com/83659148/177087944-adb37308-9e50-4aa1-bc54-22ddad8e44a5.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmedsameh610/)  [<img src='https://user-images.githubusercontent.com/83659148/177087378-b030a530-02d1-4b0b-b74f-dd62216c58f9.png' alt='facebook' height='40'>](https://www.facebook.com/ahmedsameh610)  [<img src='https://user-images.githubusercontent.com/83659148/177087867-80dbdb61-63ea-4222-a5ac-b81595b5208f.png' alt='instagram' height='40'>](https://www.instagram.com/return_ahmed/)  
 
